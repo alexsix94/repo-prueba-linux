@@ -9,4 +9,6 @@ html {
 
 .header {
     width: 100vw;
+    height: 30rem;
+    background-color: brown;
 }
