@@ -1,0 +1,6 @@
+Notas de clases.
+
+Directorios locales
+Staging
+Repositorios locales
+Repositorios remotos
