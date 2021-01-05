@@ -8,4 +8,6 @@ Repositorios remotos
 creacion de nuevo branch con git branch 
 cambio de branch con git checkout 
 
-prueba
+git merge une dos branch
+
+git no borra archivos, un merge es solo otro commit con la union de las versiones de dos commits
