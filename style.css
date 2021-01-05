@@ -9,12 +9,12 @@ html {
 
 .header {
     width: 100vw;
-    height: 30rem;
+    height: 50rem;
     background-color: blueviolet;
 }
 
 .header a {
     text-decoration: none;
-    font-size: 23rem;
+    font-size: 10rem;
     color: crimson;
 }
