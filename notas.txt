@@ -4,3 +4,8 @@ Directorios locales
 Staging
 Repositorios locales
 Repositorios remotos
+
+creacion de nuevo branch con git branch 
+cambio de branch con git checkout 
+
+prueba
