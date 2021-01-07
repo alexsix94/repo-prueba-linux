@@ -22,3 +22,4 @@ git push origin main
 Para enviar los cambios al repo remoto
 
 se hizo el cambio de main a master como branch predeterminada
+la prueba funcionó correctamente!!
