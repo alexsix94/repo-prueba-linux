@@ -21,4 +21,4 @@ Se utiliza para forzar a dos ramas con historias distintas a hacer merge
 git push origin main 
 Para enviar los cambios al repo remoto
 
-
+se hizo el cambio de main a master como branch predeterminada
