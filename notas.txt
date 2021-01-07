@@ -11,3 +11,14 @@ cambio de branch con git checkout
 git merge une dos branch
 
 git no borra archivos, un merge es solo otro commit con la union de las versiones de dos commits
+
+Para agregar origen remoto se usa
+git remote add origin url 
+
+git pull origin main --allow-unrelated-histories
+Se utiliza para forzar a dos ramas con historias distintas a hacer merge
+
+git push origin main 
+Para enviar los cambios al repo remoto
+
+
