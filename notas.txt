@@ -5,8 +5,10 @@ Staging
 Repositorios locales
 Repositorios remotos
 
-creacion de nuevo branch con git branch 
-cambio de branch con git checkout 
+creacion de nuevo branch con git branch NombreDeBranch
+cambio de branch con git checkout NombreDeBranch
+
+NOTA: Hacer un checkout puede deshacer todos los cambios del branch actual si es que no se realiza un commit antes del checkout
 
 git merge une dos branch
 
