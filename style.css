@@ -6,3 +6,10 @@
 html {
     font-size: 62.5%;
 }
+
+.header {
+    width: 100vw;
+    height: 15rem;
+    background-color: cadetblue;
+    padding: 3rem;
+}
