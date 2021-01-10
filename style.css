@@ -6,3 +6,28 @@
 html {
     font-size: 62.5%;
 }
+
+.footer {
+    width: 100vw;
+    height: 7rem;
+    background-color: #353624;
+    display: flex;
+    
+}
+
+.footer p {
+    color: #c1c70a;
+    font-size: 1.5rem;
+}
+
+.footer .foot1 {
+    width: 50vw;
+    padding: 3rem;
+    
+}
+
+.footer .foot2 {
+    width: 50vw;
+    padding: 3rem;
+    align-content: flex-end;
+}
