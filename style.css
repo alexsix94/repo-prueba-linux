@@ -1,4 +1,5 @@
 * {
+
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -9,7 +10,31 @@ html {
 
 .header {
     width: 100vw;
-    height: 15rem;
-    background-color: cadetblue;
-    padding: 3rem;
+    height: 12rem;
+    background-color: #134a27;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header h1 {
+    color: #c1c70a;
+    font-size: 3.5rem;
+}
+
+.header a {
+    color: #c1c70a;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    margin-top: 1rem;
+}
+
+.header li a {
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 3rem 5rem;
 }
